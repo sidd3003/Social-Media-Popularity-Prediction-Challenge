@@ -1,5 +1,5 @@
 # Social-Media-Popularity-Prediction
-Description:
+
 The project introduces an innovative approach to predict content popularity on social media platforms, focusing on Flickr. Unlike existing methods, we consider the Social Network Effect (SNE) context, including group interactions, popularity, and post count.
 
 We combine machine learning and deep learning techniques with Flickr post data analysis, considering factors like post content, user engagement, and metadata alongside group interactions.
